@@ -19,6 +19,12 @@ The goal of this case study is to bridge the gap between technical incident fore
 
 ---
 
+### Incident & Remediation Overview
+
+![Incident Post-Mortem Architecture](assets/incident_overview.png)
+
+---
+
 ##  Table of Contents
 1. [Executive Narrative: The Anatomy of the Breach](#1-executive-narrative-the-anatomy-of-the-breach)
 2. [Systematic Vulnerability Assessment](#2-systematic-vulnerability-assessment)
