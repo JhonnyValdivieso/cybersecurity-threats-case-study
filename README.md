@@ -140,6 +140,8 @@ The transformation of Terra Renewables from a vulnerable target to a resilient e
 
 ---
 
-*Disclaimer: This case study was developed for academic and portfolio demonstration purposes as part of the Cybersecurity Master's curriculum at Immune Technology Institute.*
+## Licencia
 
-```
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más información.
+
+*Disclaimer: This case study was developed for academic and portfolio demonstration purposes as part of the Cybersecurity Master's curriculum at Immune Technology Institute.*
