@@ -1,5 +1,8 @@
 #  Executive Case Study: Incident Post-Mortem & Strategic Cybersecurity Transformation
-
+![Category](https://img.shields.io/badge/Category-vCISO%20%26%20Risk%20Governance-blue)
+![Framework](https://img.shields.io/badge/Framework-NIST%20CSF%20%7C%20MITRE%20ATT%26CK-orange)
+![Focus](https://img.shields.io/badge/Focus-Incident%20Post--Mortem%20%26%20Remediation-red)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 > **Project Type:** Cybersecurity Master's Academic Case Study (Immune Technology Institute)  
 > **Role:** Virtual CISO (vCISO) / Senior Security Consultant  
 > **Author:** Jhonny Valdivieso  
