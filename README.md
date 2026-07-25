@@ -140,8 +140,8 @@ The transformation of Terra Renewables from a vulnerable target to a resilient e
 
 ---
 
-## Licencia
+## License
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más información.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 *Disclaimer: This case study was developed for academic and portfolio demonstration purposes as part of the Cybersecurity Master's curriculum at Immune Technology Institute.*
